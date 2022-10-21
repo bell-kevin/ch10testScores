@@ -6,9 +6,9 @@ Ch 10 Test Scores letter grades
 
 Here is an example:
 
-![Ch 10 Test Scores](https://github.com/bell-kevin/ch10testScores/blob/main/grades0.PNG)
+![Ch 10 Test Scores](https://github.com/bell-kevin/ch10testScores/blob/main/ch10testScores/grades0.PNG)
 
-![p](https://github.com/bell-kevin/ch10testScores/blob/main/grades2.PNG)
+![p](https://github.com/bell-kevin/ch10testScores/blob/main/ch10testScores/grades2.PNG)
 
 Create a table of test cases BEFORE you write and run your project to calculate the correct results for different sets of test scores. Create 3 test cases. Run your code, enter the data from each test case, and compare your results to those test cases. Take screenshots of all 3 results.
 
