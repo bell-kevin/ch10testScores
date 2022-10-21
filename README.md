@@ -2,8 +2,6 @@
 
 Create a project that creates an array that holds a series of 6 test scores which are input by the user. Display the values in the array and calculate the average test score and letter grade. Make the program modular by using functions that handle each task -- getting the scores, displaying the array, calculating the average and letter grade. Use pointer notation instead of subscripts throughout the program. Refer to Program 10-6.
 
-Ch 10 Test Scores letter grades
-
 Here is an example:
 
 ![Ch 10 Test Scores](https://github.com/bell-kevin/ch10testScores/blob/main/ch10testScores/grades0.PNG)
